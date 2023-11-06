@@ -17,5 +17,6 @@ PRUEBAS
 
 - localhost:8080//auth/v1/register y seleccionar el método POST
 - Se debe insertar dentro de la pestaña Body (además de seleccionar la opción raw y lenguaje JSON) la petición del usuario a registrar , se adjunta imagen de referencia.
+  <img src="[imagen.jpg](https://github.com/MarceloAlarcon312/Nisum-Java/blob/main/Peticion%20Postman.png)https://github.com/MarceloAlarcon312/Nisum-Java/blob/main/Peticion%20Postman.png" alt="Peticion Postman de ejemplo">
 
 
